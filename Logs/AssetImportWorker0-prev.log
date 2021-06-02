@@ -1,0 +1,175 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'zh' Physical Memory: 8001 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Eric/OneDrive/桌面/box pushingj/box pushing
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60541
+Successfully changed project path to: C:/Users/Eric/OneDrive/桌面/box pushingj/box pushing
+C:/Users/Eric/OneDrive/桌面/box pushingj/box pushing
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Eric/OneDrive/桌面/box pushingj/box pushing/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX250 (ID=0x1d13)
+    Vendor:   
+    VRAM:     1983 MB
+    Driver:   27.21.14.5763
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56224
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005037 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.226 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009400 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.195 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1418 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.3 MB.
+System memory in use after: 67.4 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1853.
+Total: 1.856800 ms (FindLiveObjects: 0.152600 ms CreateObjectMapping: 0.039300 ms MarkObjects: 1.600400 ms  DeleteObjects: 0.063200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Suriyun
+  artifactKey: Guid(531f9d9a729e5474c8c8188f9f0d5d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun using Guid(531f9d9a729e5474c8c8188f9f0d5d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc2e8b5e43f54247e4801fc48b055fd2') in 0.010183 seconds
+  Import took 0.013274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Suriyun/StartSense.unity
+  artifactKey: Guid(b4db4f7a50abe8c4cbbf8d1188d6c93b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/StartSense.unity using Guid(b4db4f7a50abe8c4cbbf8d1188d6c93b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c272cb896c59b360bcafbe03e22ac00') in 0.012185 seconds
+  Import took 0.015402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.000557 seconds.
+  path: Assets/聲音
+  artifactKey: Guid(81aa165ee7b9be44e8f508f37861f08f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/聲音 using Guid(81aa165ee7b9be44e8f508f37861f08f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd32003097e07c8cc250dd8f2bcbde3c8') in 0.008048 seconds
+  Import took 0.012783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000707 seconds.
+  path: Assets/聲音
+  artifactKey: Guid(81aa165ee7b9be44e8f508f37861f08f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/聲音 using Guid(81aa165ee7b9be44e8f508f37861f08f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd32003097e07c8cc250dd8f2bcbde3c8') in 0.005332 seconds
+  Import took 0.009758 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007901 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.635 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1400 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.0 MB.
+System memory in use after: 66.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1856.
+Total: 2.596200 ms (FindLiveObjects: 0.235700 ms CreateObjectMapping: 0.078800 ms MarkObjects: 2.257300 ms  DeleteObjects: 0.023000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.915122 seconds.
+  path: Assets/Suriyun/SampleScene_Voxel.unity
+  artifactKey: Guid(9e9e287037d35054fa29d835f30c5215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/SampleScene_Voxel.unity using Guid(9e9e287037d35054fa29d835f30c5215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54e046b898a8c681198819e57438ed2a') in 0.013215 seconds
+  Import took 0.024301 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006476 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.073 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1400 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.1 MB.
+System memory in use after: 66.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1859.
+Total: 1.543100 ms (FindLiveObjects: 0.134200 ms CreateObjectMapping: 0.040800 ms MarkObjects: 1.353800 ms  DeleteObjects: 0.013200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005287 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.127 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1400 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.1 MB.
+System memory in use after: 66.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1862.
+Total: 2.172600 ms (FindLiveObjects: 0.151500 ms CreateObjectMapping: 0.044500 ms MarkObjects: 1.958800 ms  DeleteObjects: 0.016900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
